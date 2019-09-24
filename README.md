@@ -1,4 +1,4 @@
-# Visualizing-and-Predicting-Reviews-with-Yelp
+# Visualizing and Predicting Reviews with Yelp
 
 • usage: recommend.py [-h] [-u USER] [-k K] [-q QUERY] [-p] [-r]
 
