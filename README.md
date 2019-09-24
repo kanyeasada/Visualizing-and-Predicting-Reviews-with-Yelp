@@ -6,6 +6,6 @@
 
 • A list of restaurants can be found with: python3 recommend.py -r
 
-• Potential queries can be found in ,else all queries will be displayed
-    eg: python3 recommend.py -u likes_southside -k 5 -p -q Burgers
+• Potential queries can be found in queries file, else all queries will be displayed
+        eg: python3 recommend.py -u likes_southside -k 5 -p -q Burgers
 
